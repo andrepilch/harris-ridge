@@ -20,7 +20,7 @@ body {
     background-color: #C5DC6D;
     background-image: url(assets/losange_pattern.png) ;
     height: 50%;
-    clip-path: path('M0.5,1 C0.5,1,0,0.7,0,0.3 A0.25,0.25,1,1,1,0.5,0.3 A0.25,0.25,1,1,1,1,0.3 C1,0.7,0.5,1,0.5,1 Z');;
+    clip-path: path('M813.5 703.394C742.3 720.077 698.833 726.345 686 727.394C661.6 730.747 475.442 743.347 385.413 749.228C306 753.894 60.7753 794.519 0 801.394V0H1100V657.39C1076.67 664.105 884.7 686.711 813.5 703.394Z');
     display: flex;
     justify-content: center;
   }
