@@ -1,12 +1,39 @@
 body {
-    background-color:black;
+    background-color: white;
+    height: 100%;
     display: flex;
+    padding: 0;
+    margin: 0;
     justify-content: center;
     align-items: center;
+    flex-direction:column;
+    width: 100%;
   }
   h1 {
-    color: blue;
+    color:black;
   }
   p {
-    color: red;
+    color:black;
   }
+  #container {
+    width: 100%;
+    background-color: #C5DC6D;
+    background-image: url(assets/losange_pattern.png) ;
+    height: 50%;
+
+    display: flex;
+    justify-content: center;
+  }
+  
+  #child {
+    position: relative;
+    top: 350px;
+    max-width: 600px;
+  }
+
+/* .img {
+    width: 30%;
+    position: relative;
+    top: 500px;
+    max-width: 300px;
+} */
