@@ -20,7 +20,7 @@ body {
     background-color: #C5DC6D;
     background-image: url(assets/losange_pattern.png) ;
     height: 50%;
-
+    clip-path: url(assets/horizon.svg);
     display: flex;
     justify-content: center;
   }
