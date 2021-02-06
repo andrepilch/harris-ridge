@@ -10,11 +10,29 @@ body {
     background-color: #C5DC6D;
     background-image: url(assets/losange_pattern.png) ;
   }
+#text {
+  /* padding: 24px 24px 24px 24px; */
+  left: 0%;
+  width: 96%;
+  padding-left: 2%;
+  padding-right: 2%;
+  position: absolute;
+  margin-top: 10%;
+  text-align: center;
+}
 h1 {
-  color:black;
+  color:white;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.5em;
+  position: relative;
+  margin: 0;
 }
 p {
-  color:black;
+  color:white;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.2em;
+  position: relative;
+  margin: 8px;
 }
 #horizon {
   width: 100%;
