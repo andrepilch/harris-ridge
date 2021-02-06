@@ -16,7 +16,7 @@ body {
   padding-left: 2%;
   padding-right: 2%;
   position: absolute;
-  margin-top: 5%;
+  margin-top: 30%;
   text-align: center;
 }
 h1 {
@@ -71,6 +71,9 @@ iframe{
   #logo {
     width: 60vw; margin: -30vw 0 0 -30vw; top: 65%;/* The width is 100%, when the viewport is 800px or smaller */
   }
+  #text {
+    margin-top: 5%;
+  }
   h1 {
     font-size: 2vw;
   }
@@ -94,5 +97,8 @@ iframe{
   }
   p {
     font-size: 1.6vw;
+  }
+  #text {
+    margin-top: 2%;
   }
 }
