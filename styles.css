@@ -8,7 +8,7 @@ body {
     flex-direction:column;
     width: 100%;
     background-color: #C5DC6D;
-    background-image: url(assets/losange_pattern.png) ;
+    background-image: url(https://github.com/andrepilch/harris-ridge/blob/main/assets/losange_pattern.png?raw=true) ;
   }
 #text {
   left: 0%;
