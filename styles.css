@@ -81,6 +81,22 @@ iframe{
     font-size: 1.6vw;
   }
 }
+@media screen and (min-width: 1600px) {
+  #logo {
+    width: 40vw; margin: -20vw 0 0 -20vw; top: 65%;/* The width is 100%, when the viewport is 800px or smaller */
+  }
+  #text {
+    margin-top: 5%;
+  }
+  h1 {
+    font-size: 2vw;
+  }
+  p {
+    font-size: 1.6vw;
+  }
+  iframe{
+    height: 1200px;
+}
   @media screen and (min-width: 550px)
   {
     #horizon svg {
